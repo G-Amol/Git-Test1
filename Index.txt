@@ -1,1 +1,1 @@
-This is the Git Software for used.
+This is the one used application.

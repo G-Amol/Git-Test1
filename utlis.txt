@@ -1,1 +1,1 @@
-Software Source Code for Git Control Versioning.
+one use for Git Control click2cloud.
